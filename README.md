@@ -9,7 +9,7 @@ Try to imagine that you are taking this test offline on a paper.
 ## Tips and tricks
 
 - Write your answers after the questions.
-- For programming tasks, use the formatting syntax of the markdown language,
+- If you want to write some code, use the formatting syntax of the markdown language,
 for example for java code:
 
 ```text
@@ -19,13 +19,6 @@ for example for java code:
 ```
 
 - Before starting to write anything you should read through all the questions.
-
-### Programming tasks
-
-- **You must not use an IDE**
-- You don't need to handle every edge case
-- It doesn't matter if the program is not correct syntactically,
-the structure is the important part. You might also write pseudo code.
 
 ### Short questions
 
